@@ -26,3 +26,4 @@ Antes de ejecutar este proyecto, asegúrate de tener instalado lo siguiente:
    - flutter pub get
 
 4. **Ejecutar el proyecto**
+   - flutter run
