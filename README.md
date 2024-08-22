@@ -1,16 +1,28 @@
-# comics
+# Proyecto Flutter: Comic Vine API
 
-A new Flutter project.
+## Descripción
 
-## Getting Started
+Este proyecto es una aplicación Flutter que utiliza la API de Comic Vine para acceder a información sobre cómics, personajes, series y más. La aplicación permite a los usuarios explorar y buscar contenido relacionado con cómics.
 
-This project is a starting point for a Flutter application.
+## Requisitos Previos
 
-A few resources to get you started if this is your first Flutter project:
+Antes de ejecutar este proyecto, asegúrate de tener instalado lo siguiente:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter SDK: [Instalación de Flutter](https://flutter.dev/docs/get-started/install)
+- Un editor de código (se recomienda Visual Studio Code o Android Studio)
+- Una cuenta en [Comic Vine](https://comicvine.gamespot.com/api) para obtener una API Key
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Como ejecutar el proyecto
+
+1. **Clonar el repositorio**
+
+2. **Agregar variables a .env**
+
+   - API_KEY = "your api key"
+   - API_URL = "comicvine.gamespot.com"
+
+3. **Obtener los paquetes**
+
+   - flutter pub get
+
+4. **Ejecutar el proyecto**
